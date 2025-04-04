@@ -2,21 +2,28 @@
 
 noe info ....
 
+## Set up
+
+
+
 ## Oppgaver
 
 De er delt inn bla bla 
 
 
-### Easy
+### Lett
 
-- [Some task]()
+- [Oppgave 1](/Oppgaver/Oppgave1.md)
 
 ### Medium 
 
 - [Some task]() 
 
-### Hard
+### Vanskelig
 
 - [Some task]()
+
+- Skal vi bry oss om de ferdig lagede testen til Maester?
+
 
 
