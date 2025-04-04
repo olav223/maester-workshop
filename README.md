@@ -11,15 +11,19 @@ noe info ....
 De er delt inn bla bla 
 
 
-### Lett
+### Lett 😊👍
 
 - [Oppgave 1](/Oppgaver/Oppgave1.md)
 
-### Medium 
+### Medium 🤔💪
 
 - [Some task]() 
 
-### Vanskelig
+### Vanskelig 😓🚀
+
+- [Some task]()
+
+### Bonus 🧠💥
 
 - [Some task]()
 
