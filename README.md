@@ -7,7 +7,7 @@ noe info ....
 De er delt inn bla bla 
 
 
-### Esay
+### Easy
 
 - [Some task]()
 
