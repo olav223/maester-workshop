@@ -36,7 +36,7 @@ Her er det noen forslag til problemstilinger man kan teste. De er delt inn i Let
 
 ### Bonus 🧠💥
 
-- [Bonus Oppgaver](/Oppgaver/GP4.md)
+- [Bonus Oppgaver](/Oppgaver/Bonus.md)
 
 
 
