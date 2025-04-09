@@ -5,7 +5,7 @@ Guest access to SPO is available for guests, but certain domains are blocked. (A
 <details>
   <summary>To Remediate or Check This Issue (Click to expand!)</summary>
 
-Configure External Collaboration Settings in Microsoft Entra ID:
+- Configure External Collaboration Settings in Microsoft Entra ID:
 - **Microsoft Entra ID** → **External Identities** → **External Collaboration Settings** → Under **Collaboration restrictions**, set to:
   - **"Deny invitations to the specified domains"** for a blocklist.
   - **"Allow invitations only to the specified domains"** for an allowlist.
