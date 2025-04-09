@@ -21,15 +21,22 @@ Her er det noen forslag til problemstilinger man kan teste. De er delt inn i Let
 
 ### Medium 🤔💪
 
-- [EX3]() 
+- [EX3](/Oppgaver/GP1.md)
+- [MT4](/Oppgaver/MT4.md)
+- [MT1](/Oppgaver/MT1.md)
+- [EX4](/Oppgaver/EX4.md)
+- [MT8](/Oppgaver/MT8.md)
+- [SC16](/Oppgaver/SC16.md) 
 
 ### Vanskelig 😓🚀
 
-- [Some task]()
+- [EX3](/Oppgaver/EX3.md)
+- [EX2](/Oppgaver/EX2.md)
+- [SP2](/Oppgaver/SP2.md)
 
 ### Bonus 🧠💥
 
-- [Some task]()
+- [Bonus Oppgaver](/Oppgaver/GP4.md)
 
 
 
