@@ -1,14 +1,13 @@
 # Maester Workshop 🔥
 
-noe info ....
-
-## Set up
-
+## Dokumentasjon
+[Maester](https://maester.dev/docs/intro)
+[Pester](https://pester.dev/docs/quick-start)
+[Microsoft Learn](https://learn.microsoft.com/en-us/docs/)
 
 
 ## Oppgaver
-
-De er delt inn bla bla 
+Her er det noen forslag til problemstilinger man kan teste. De er delt inn i Lett, Medium, Vanskelig og Bonus er de vanskeligste, de er vi ikke sikkre på om det er mulig å løse.
 
 
 ### Lett 😊👍
@@ -27,7 +26,15 @@ De er delt inn bla bla
 
 - [Some task]()
 
-- Skal vi bry oss om de ferdig lagede testen til Maester?
+
+
+## Lage en GitHub Action pipeline
+Hvis man har laget et par tester og ønsker å utforske noe mere kan man sette opp en GitHub Action som kjører testene dine.
+
+Her er en dokumentasjon for det:
+[Maester GitHub Action](https://maester.dev/docs/monitoring/github#set-up-the-github-actions-workflow)
+
+PS: Planene er gå igjennom dette etterpå
 
 
 
