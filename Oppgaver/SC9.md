@@ -9,8 +9,6 @@ Guest user access in Entra ID external collaboration settings is set to most res
     <br/>
   
     Microsoft Entra ID → External Identities → External collaboration settings → Set "Guest user access" to "Guest user access is restricted to properties and memberships of their own directory objects.":
-    <br/>
-    
     Verify that the most restrictive option is selected.
 </details>
 
