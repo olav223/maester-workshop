@@ -15,11 +15,13 @@ Her er det noen forslag til problemstilinger man kan teste. De er delt inn i Let
 
 ### Lett 😊👍
 
-- [Oppgave 1](/Oppgaver/SC9.md)
+- [SC9](/Oppgaver/SC9.md)
+- [LC1](/Oppgaver/LC1.md)
+- [GP4](/Oppgaver/GP4.md)
 
 ### Medium 🤔💪
 
-- [Some task]() 
+- [EX3]() 
 
 ### Vanskelig 😓🚀
 
