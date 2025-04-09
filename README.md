@@ -15,7 +15,7 @@ Her er det noen forslag til problemstilinger man kan teste. De er delt inn i Let
 
 ### Lett 😊👍
 
-- [Oppgave 1](/Oppgaver/Oppgave1.md)
+- [Oppgave 1](/Oppgaver/SC9.md)
 
 ### Medium 🤔💪
 
