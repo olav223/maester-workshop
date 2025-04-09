@@ -37,8 +37,6 @@ Hvis man har laget et par tester og ønsker å utforske noe mere kan man sette o
 Her er en dokumentasjon for det:
 [Maester GitHub Action](https://maester.dev/docs/monitoring/github#set-up-the-github-actions-workflow)
 
-PS: Planene er gå igjennom dette etterpå
-
 ## Dokumentasjon
 
 [Maester](https://maester.dev/docs/intro)
